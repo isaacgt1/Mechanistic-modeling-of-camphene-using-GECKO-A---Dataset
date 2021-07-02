@@ -5,6 +5,8 @@ This data repository contains the simulation outputs of GECKO-A model used in th
 "Using GECKO-A to derive mechanistic understanding of secondary organic aerosol formation from the ubiquitous but understudied camphene"
 by Afreh et al., 2021 in ACP
 
+The original ACP article should be properly cited when these data are used in a publication.
+
 Chamber reactivity simulations were performed for alpha-pinene and limonene under photooxidation and dark ozonolysis conditions, 
 followed by controlled reactivity simulations for alpha-pinene, camphene, and limonene.
 
